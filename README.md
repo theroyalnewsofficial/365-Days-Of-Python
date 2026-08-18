@@ -1,2 +1,412 @@
-# 365-Days-Of-Python
-Mastering Python, Automation, APIs, and System Design in 365 Days — A Comprehensive Bengali Practical Book &amp; Code Repository.
+# 📚 365 Days Python Book & Master Curriculum
+
+> Mastering Python, Automation, APIs, and System Design in 365 Days — A Comprehensive Bengali Practical Book & Code Repository.
+
+---
+
+### 📊 Overall Progress Overview
+- [ ] **Module 1:** Python Basics & Fundamental Logic (Days 1–30)
+- [ ] **Module 2:** Control Flow, Loops & Advanced Data Structures (Days 31–60)
+- [ ] **Module 3:** File Handling & Excel Automation Engine (Days 61–100)
+- [ ] **Module 4:** Web Scraping, Data Mining & Bots (Days 101–150)
+- [ ] **Module 5:** Data Analysis, Processing & Visualization (Days 151–210)
+- [ ] **Module 6:** Object-Oriented Programming (OOP) & System Design (Days 201–240)
+- [ ] **Module 7:** REST APIs, FastAPI & Microservices (Days 241–290)
+- [ ] **Module 8:** AI, ML & Advanced Automation Engineering (Days 291–335)
+- [ ] **Module 9:** Capstone Projects, Portfolio & Production Systems (Days 336–365)
+
+---
+
+## 🟢 MODULE 1: Python Basics & Fundamental Logic (Days 1 – 30)
+- [ ] **Day 001:** Python Introduction & Environment Setup (VS Code, Interpreter, Terminal execution)
+- [ ] **Day 002:** Variables & Memory Allocation Concepts
+- [ ] **Day 003:** Data Types: Strings, Integers, Floats, Booleans & type() Function
+- [ ] **Day 004:** Dynamic Output Printing with f-strings & Escape Characters (\n, \t)
+- [ ] **Day 005:** User Input Handling (input()) & String-to-Number Conversion (int(), float())
+- [ ] **Day 006:** Basic Arithmetic Operators (+, -, *, /, //, %, **) & Precedence
+- [ ] **Day 007:** Mini Project: Personal Expense & Savings Calculator (CLI)
+- [ ] **Day 008:** Comparison Operators (==, !=, >, <, >=, <=)
+- [ ] **Day 009:** Conditional Statements: Basic if & else Logic
+- [ ] **Day 010:** Multi-condition Checking using elif
+- [ ] **Day 011:** Logical Operators (and, or, not) & Truth Tables
+- [ ] **Day 012:** Nested if-else Decisions (Complex Decision Trees)
+- [ ] **Day 013:** Mini Project: Student Grading & Performance Classifier System
+- [ ] **Day 014:** String Manipulation: Indexing & Slicing ([start:stop:step])
+- [ ] **Day 015:** Essential String Methods (.upper(), .lower(), .strip(), .replace())
+- [ ] **Day 016:** String Searching & Splitting (.find(), .count(), .split(), .join())
+- [ ] **Day 017:** Type Casting in Depth (Explicit vs Implicit Conversions)
+- [ ] **Day 018:** Mini Project: Automatic Invoice Generator with Tax & Discounts
+- [ ] **Day 019:** Introduction to Lists (Ordered Collections, Indexing, Mutability)
+- [ ] **Day 020:** Basic List Operations (.append(), .insert(), .extend())
+- [ ] **Day 021:** Removing List Items (.pop(), .remove(), .clear(), del)
+- [ ] **Day 022:** List Searching, Sorting & Reversing (.sort(), .reverse(), in operator)
+- [ ] **Day 023:** Tuples: Immutable Collections & Tuple Unpacking
+- [ ] **Day 024:** Sets: Unique Elements, Set Operations (union, intersection, difference)
+- [ ] **Day 025:** Introduction to Dictionaries (Key-Value Pairs & Access Methods)
+- [ ] **Day 026:** Modifying Dictionaries (.keys(), .values(), .items(), .get())
+- [ ] **Day 027:** Nested Dictionaries & Complex Data Modeling
+- [ ] **Day 028:** Mini Project: Interactive Inventory Management System
+- [ ] **Day 029:** Module 1 Comprehensive Review & Code Refactoring
+- [ ] **Day 030:** Milestone Project: Command-Line Employee Directory Application
+
+---
+
+## 🔵 MODULE 2: Control Flow, Loops & Advanced Data Structures (Days 31 – 60)
+- [ ] **Day 031:** Introduction to while Loops & Condition Evaluation
+- [ ] **Day 032:** Loop Control Statements: break, continue, pass
+- [ ] **Day 033:** Building Interactive CLI Menus with Infinite while True Loops
+- [ ] **Day 034:** Introduction to for Loops & Iterating over Strings and Lists
+- [ ] **Day 035:** Generating Sequences with range(start, stop, step)
+- [ ] **Day 036:** Iterating over Dictionaries & Nested Data Structures
+- [ ] **Day 037:** Nested Loops & Multi-Dimensional Data Iteration
+- [ ] **Day 038:** Mini Project: Automated Multiplication & Math Pattern Generator
+- [ ] **Day 039:** List Comprehension: Writing Pythonic One-Liner Loops
+- [ ] **Day 040:** Conditional List Comprehension ([x for x in list if condition])
+- [ ] **Day 041:** Dictionary Comprehension & Set Comprehension
+- [ ] **Day 042:** Working with Python's Built-in Modules (math, random)
+- [ ] **Day 043:** Date & Time Operations with datetime & time Modules
+- [ ] **Day 044:** Mini Project: Password Generator with Security Rules
+- [ ] **Day 045:** Introduction to Functions: Defining (def) and Calling Functions
+- [ ] **Day 046:** Function Parameters & Return Values
+- [ ] **Day 047:** Default Arguments & Keyword Arguments (arg=value)
+- [ ] **Day 048:** Variable-Length Arguments (*args and **kwargs)
+- [ ] **Day 049:** Scope of Variables: Local vs Global Scope & global Keyword
+- [ ] **Day 050:** Lambda Functions (Anonymous Functions) & map(), filter()
+- [ ] **Day 051:** Mini Project: Modular Currency Converter with Real-Time Rates Logic
+- [ ] **Day 052:** Exception Handling Concepts: try & except Blocks
+- [ ] **Day 053:** Catching Specific Exceptions (ValueError, ZeroDivisionError, TypeError)
+- [ ] **Day 054:** Advanced Exception Handling: else & finally Blocks
+- [ ] **Day 055:** Custom Error Raising using raise
+- [ ] **Day 056:** Input Validation Patterns using Loops & Exception Handling
+- [ ] **Day 057:** Mini Project: Robust Bank Account Simulator with Error Prevention
+- [ ] **Day 058:** Module 2 Review: Optimizing Code Efficiency
+- [ ] **Day 059:** Debugging Techniques using VS Code Debugger & Print Tracing
+- [ ] **Day 060:** Milestone Project: CLI-Based Quiz Engine with Scoring & Data Persistence
+
+---
+
+## 🟡 MODULE 3: File Handling & Excel Automation Engine (Days 61 – 100)
+- [ ] **Day 061:** Introduction to File I/O: Reading Plain Text Files (.txt)
+- [ ] **Day 062:** Writing and Appending to Text Files ('w', 'a' modes)
+- [ ] **Day 063:** Context Managers: The with open() Pattern
+- [ ] **Day 064:** File System Operations with os and pathlib Modules
+- [ ] **Day 065:** Working with CSV Files using Python’s Built-in csv Module
+- [ ] **Day 066:** Reading & Writing Structured CSV Data
+- [ ] **Day 067:** Introduction to JSON Format: json.dumps(), json.loads()
+- [ ] **Day 068:** Reading & Writing JSON Files (json.dump(), json.load())
+- [ ] **Day 069:** Mini Project: Automated Local Data Logger
+- [ ] **Day 070:** Introduction to openpyxl: Creating & Saving Excel Workbooks
+- [ ] **Day 071:** Accessing Worksheets, Rows, Columns & Specific Cells
+- [ ] **Day 072:** Writing Data to Cells & Appending Rows Dynamically
+- [ ] **Day 073:** Reading Data from Existing Excel Spreadsheets
+- [ ] **Day 074:** Iterating through Large Excel Datasets (iter_rows(), iter_cols())
+- [ ] **Day 075:** Excel Cell Formatting: Fonts, Colors, Borders, Alignment
+- [ ] **Day 076:** Applying Conditional Formatting in Excel via Python
+- [ ] **Day 077:** Adding Excel Formulas (SUM, AVERAGE, COUNTIF) Programmatically
+- [ ] **Day 078:** Auto-adjusting Column Widths & Row Heights
+- [ ] **Day 079:** Creating Charts in Excel (Bar Charts, Line Charts, Pie Charts)
+- [ ] **Day 080:** Mini Project: Automated Monthly Sales & Expense Report Generator
+- [ ] **Day 081:** Working with Multiple Excel Sheets (Adding, Renaming, Copying)
+- [ ] **Day 082:** Merging Multiple Excel Files into a Single Master Spreadsheet
+- [ ] **Day 083:** Splitting Master Excel Sheets into Multiple Files based on Rules
+- [ ] **Day 084:** Data Filtering & Sorting inside Excel Workbooks
+- [ ] **Day 085:** Advanced openpyxl: Inserting Images & Custom Styling
+- [ ] **Day 086:** PDF Processing: Reading PDF Files using PyPDF2 / pypdf
+- [ ] **Day 087:** Extracting Text and Tables from PDF Documents
+- [ ] **Day 088:** Merging, Splitting, and Rotating PDF Pages Programmatically
+- [ ] **Day 089:** Adding Watermarks & Encrypting PDFs with Passwords
+- [ ] **Day 090:** Mini Project: PDF Report Extractor & Converter to Excel
+- [ ] **Day 091:** Automated Email Sending using smtplib & SSL/TLS Security
+- [ ] **Day 092:** Constructing HTML Emails with Attachments using email Module
+- [ ] **Day 093:** Automating Email Distribution Lists from Excel Data
+- [ ] **Day 094:** Reading Emails via IMAP & Extracting Attachments
+- [ ] **Day 095:** Mini Project: Automated Invoice Emailer with PDF Attachments
+- [ ] **Day 096:** OS Automation: File Organization & Bulk Renaming Scripts
+- [ ] **Day 097:** Scheduling Python Scripts using System Schedulers (Cron / Windows Task Scheduler)
+- [ ] **Day 098:** Module 3 Review & Performance Optimization for Large Datasets
+- [ ] **Day 099:** Refactoring Automation Tools into Reusable Scripts
+- [ ] **Day 100:** Milestone Project: End-to-End Automated Business Reporting System
+
+---
+
+## 🟠 MODULE 4: Web Scraping, Data Mining & Bots (Days 101 – 150)
+- [ ] **Day 101:** HTTP Fundamentals: GET, POST Requests, Headers, Status Codes
+- [ ] **Day 102:** Introduction to requests Library: Fetching Web Content
+- [ ] **Day 103:** Handling URL Parameters, Query Strings, and User-Agents
+- [ ] **Day 104:** HTML Basics & DOM Structure Analysis for Scraping
+- [ ] **Day 105:** Introduction to BeautifulSoup4: Parsing HTML Documents
+- [ ] **Day 106:** Locating Elements using .find(), .find_all(), and CSS Selectors
+- [ ] **Day 107:** Extracting Text, Attributes (href, src), and Nested Data
+- [ ] **Day 108:** Scraping Multi-Page Websites with Pagination Logic
+- [ ] **Day 109:** Handling Rate Limits, Delays (time.sleep), and Ethical Scraping
+- [ ] **Day 110:** Mini Project: E-Commerce Product Price & Stock Scraper
+- [ ] **Day 111:** Exporting Scraped Data Directly to CSV & Excel Workbooks
+- [ ] **Day 112:** Handling Sessions & Cookies in requests
+- [ ] **Day 113:** Scraping Forms & Submitting Data via POST Requests
+- [ ] **Day 114:** Scraping Websites Requiring Login Authentication
+- [ ] **Day 115:** Introduction to Dynamic Web Content & JavaScript Rendering Issues
+- [ ] **Day 116:** Introduction to Browser Automation with Selenium / Playwright
+- [ ] **Day 117:** Web Element Locators (XPath, ID, Class, CSS Selector)
+- [ ] **Day 118:** Automating Clicks, Form Typing, and Navigation
+- [ ] **Day 119:** Handling Dynamic Page Loading, Explicit & Implicit Waits
+- [ ] **Day 120:** Scrolling, Dropdowns, and Pop-up Management
+- [ ] **Day 121:** Headless Browser Execution for Background Scraping
+- [ ] **Day 122:** Mini Project: Automated Job Posting Scraper & Excel Exporter
+- [ ] **Day 123:** Introduction to Scrapy Framework: Architecture & Setup
+- [ ] **Day 124:** Building Spiders & Defining Items
+- [ ] **Day 125:** Scrapy Pipelines: Cleaning & Storing Scraped Data
+- [ ] **Day 126:** Handling Proxies & User-Agent Rotation to Prevent Blocking
+- [ ] **Day 127:** Scraping Data from Public Web APIs
+- [ ] **Day 128:** Parsing XML Data and RSS Feeds
+- [ ] **Day 129:** Mini Project: Real-Time News & Weather Data Aggregator
+- [ ] **Day 130:** Building Telegram Bots: BotFather Setup & python-telegram-bot
+- [ ] **Day 131:** Handling Telegram Commands, Messages, and Buttons
+- [ ] **Day 132:** Connecting Web Scrapers to Telegram for Real-time Alerts
+- [ ] **Day 133:** Mini Project: Automated Price Drop Notification Telegram Bot
+- [ ] **Day 134:** Building WhatsApp Automation Scripts (via API / Web Automation)
+- [ ] **Day 135:** Automating Google Sheets with gspread and Service Accounts
+- [ ] **Day 136:** Syncing Local Excel Files with Google Sheets Automatically
+- [ ] **Day 137:** Scraping Financial & Stock Market Data (yfinance)
+- [ ] **Day 138:** Mini Project: Daily Stock Market Summary Generator
+- [ ] **Day 139:** Anti-Scraping Bypass Techniques & Best Practices
+- [ ] **Day 140:** Multi-threading Basics (threading) for Parallel Scraping
+- [ ] **Day 141:** Async I/O with asyncio & aiohttp for High-Speed Scraping
+- [ ] **Day 142:** Building CLI Scraper Tools with Configurable Parameters
+- [ ] **Day 143:** Error Recovery & Logging in Web Scrapers (logging module)
+- [ ] **Day 144:** Mini Project: Automated Competitor Monitoring System
+- [ ] **Day 145:** Module 4 Review & Code Optimization
+- [ ] **Day 146:** Ethical Scraping Rules (robots.txt, Terms of Service Compliance)
+- [ ] **Day 147:** Creating Modular Web Mining Tools
+- [ ] **Day 148:** Automation Pipeline Architecture
+- [ ] **Day 149:** Testing Scrapers & Handling Site Changes
+- [ ] **Day 150:** Milestone Project: Multi-Source Market Research Automation Suite
+
+---
+
+## 🔴 MODULE 5: Data Analysis, Processing & Visualization (Days 151 – 210)
+- [ ] **Day 151:** Introduction to Data Science Tools in Python
+- [ ] **Day 152:** NumPy Fundamentals: N-Dimensional Arrays (ndarray)
+- [ ] **Day 153:** Array Indexing, Slicing, and Reshaping
+- [ ] **Day 154:** Vectorized Operations & Broadcasting in NumPy
+- [ ] **Day 155:** Statistical Functions with NumPy (mean, median, std, sum)
+- [ ] **Day 156:** Introduction to Pandas: DataFrames & Series
+- [ ] **Day 157:** Creating DataFrames from Dictionaries, CSV, and Excel
+- [ ] **Day 158:** Inspecting Datasets (.head(), .info(), .describe(), .shape)
+- [ ] **Day 159:** Data Selection: .loc[] and .iloc[] Indexers
+- [ ] **Day 160:** Filtering Data with Boolean Indexing & Conditional Statements
+- [ ] **Day 161:** Handling Missing Data (.isna(), .fillna(), .dropna())
+- [ ] **Day 162:** Data Cleaning: Removing Duplicates & Renaming Columns
+- [ ] **Day 163:** Modifying Data Columns & Type Conversion in Pandas
+- [ ] **Day 164:** String Methods in Pandas (.str.contains(), .str.replace())
+- [ ] **Day 165:** Mini Project: Raw Sales Data Cleaning & Standardization Tool
+- [ ] **Day 166:** Grouping Data with .groupby() & Aggregation Functions
+- [ ] **Day 167:** Multi-level Aggregation & Pivot Tables (pivot_table())
+- [ ] **Day 168:** Combining Datasets: Merging (merge()), Joining, and Concatenating
+- [ ] **Day 169:** Reshaping Data: Melting (melt()) and Unpivoting
+- [ ] **Day 170:** Working with Time Series Data in Pandas (pd.to_datetime())
+- [ ] **Day 171:** Resampling Time Series & Rolling Windows (Moving Averages)
+- [ ] **Day 172:** Exporting Cleaned Datasets to Multiple Formats (Excel, CSV, Parquet)
+- [ ] **Day 173:** Mini Project: E-Commerce Customer Purchase Trend Analysis
+- [ ] **Day 174:** Introduction to Data Visualization with Matplotlib
+- [ ] **Day 175:** Creating Line Plots, Bar Charts, and Histograms
+- [ ] **Day 176:** Customizing Plots: Colors, Labels, Legends, Gridlines
+- [ ] **Day 177:** Introduction to Seaborn: Advanced Statistical Visualizations
+- [ ] **Day 178:** Heatmaps, Pair Plots, and Box Plots for Outlier Detection
+- [ ] **Day 179:** Visualizing Correlations & Distributions
+- [ ] **Day 180:** Exporting High-Resolution Charts for Business Reports
+- [ ] **Day 181:** Interactive Visualizations with Plotly (HTML Charts)
+- [ ] **Day 182:** Mini Project: Automated Visual Financial Dashboard Generator
+- [ ] **Day 183:** Working with Large Datasets: Chunking (chunksize in Pandas)
+- [ ] **Day 184:** Memory Optimization Techniques for Data Processing
+- [ ] **Day 185:** Data Normalization and Feature Scaling Techniques
+- [ ] **Day 186:** Working with Categorical Data (One-Hot Encoding)
+- [ ] **Day 187:** Explaining Outliers & Anomaly Detection in Datasets
+- [ ] **Day 188:** Automated Data Validation using pydantic / great_expectations
+- [ ] **Day 189:** Mini Project: Automated Quality Assurance System for CSV Reports
+- [ ] **Day 190:** Connecting Python to Relational Databases (SQLite Setup)
+- [ ] **Day 191:** SQL Fundamentals in Python (CREATE, INSERT, SELECT, WHERE)
+- [ ] **Day 192:** Executing SQL Queries via sqlite3 Module
+- [ ] **Day 193:** Integrating SQLite with Pandas (pd.read_sql(), .to_sql())
+- [ ] **Day 194:** Connecting to PostgreSQL / MySQL databases (SQLAlchemy)
+- [ ] **Day 195:** Mini Project: Database-Backed Inventory Tracker
+- [ ] **Day 196:** Advanced Querying & Joining Tables in Python
+- [ ] **Day 197:** Database Backup & Automated Migration Scripts
+- [ ] **Day 198:** Module 5 Review & Code Efficiency Optimization
+- [ ] **Day 199:** Refactoring Data Pipelines
+- [ ] **Day 200:** Milestone Project: End-to-End Data Processing & Business Intelligence Engine
+
+---
+
+## 🟣 MODULE 6: Object-Oriented Programming (OOP) & System Design (Days 201 – 240)
+- [ ] **Day 201:** Introduction to Object-Oriented Programming Concepts
+- [ ] **Day 202:** Defining Classes & Creating Objects (Instances)
+- [ ] **Day 203:** The `__init__()` Constructor Method & Instance Attributes
+- [ ] **Day 204:** Class Attributes vs Instance Attributes
+- [ ] **Day 205:** Creating Class Methods & Instance Methods
+- [ ] **Day 206:** Encapsulation: Private & Protected Attributes (`_`, `__`)
+- [ ] **Day 207:** Getters, Setters & The `@property` Decorator
+- [ ] **Day 208:** Mini Project: Bank Account Management System using OOP
+- [ ] **Day 209:** Inheritance Concepts: Parent & Child Classes
+- [ ] **Day 210:** Method Overriding & The `super()` Function
+- [ ] **Day 211:** Multiple Inheritance & Method Resolution Order (MRO)
+- [ ] **Day 212:** Polymorphism & Duck Typing in Python
+- [ ] **Day 213:** Abstract Base Classes (ABCs) & `@abstractmethod`
+- [ ] **Day 214:** Magic (Dunder) Methods (`__str__`, `__repr__`, `__len__`, `__eq__`)
+- [ ] **Day 215:** Operator Overloading using Magic Methods
+- [ ] **Day 216:** Mini Project: Vehicle Fleet & Rental Management System
+- [ ] **Day 217:** Class Decorators & Function Decorators in Depth
+- [ ] **Day 218:** Writing Custom Decorators for Logging, Timing & Authentication
+- [ ] **Day 219:** Generators & The `yield` Keyword for Memory Efficiency
+- [ ] **Day 220:** Custom Iterators (`__iter__`, `__next__`)
+- [ ] **Day 221:** Design Patterns: Singleton Pattern Implementation
+- [ ] **Day 222:** Design Patterns: Factory Pattern Implementation
+- [ ] **Day 223:** Design Patterns: Strategy Pattern for Modular Automation
+- [ ] **Day 224:** Mini Project: Plugin-Based Automation Framework Architecture
+- [ ] **Day 225:** Code Organization: Modules, Packages & `__init__.py`
+- [ ] **Day 226:** Virtual Environments (`venv`, `conda`) & Dependency Management
+- [ ] **Day 227:** Managing `requirements.txt` & `pip` Commands
+- [ ] **Day 228:** Writing Clean, PEP 8 Compliant Python Code
+- [ ] **Day 229:** Code Formatting Tools: Black, Flake8, Isort
+- [ ] **Day 230:** Type Hinting & Static Analysis using `mypy`
+- [ ] **Day 231:** Unit Testing Basics using `unittest` Framework
+- [ ] **Day 232:** Advanced Testing with `pytest` (Fixtures & Parameterization)
+- [ ] **Day 233:** Test-Driven Development (TDD) Workflow
+- [ ] **Day 234:** Mocking External Dependencies & APIs in Tests (`unittest.mock`)
+- [ ] **Day 235:** Mini Project: Fully Tested Automation Engine with Test Suites
+- [ ] **Day 236:** Module 6 Review & Architecture Analysis
+- [ ] **Day 237:** Refactoring Monolithic Code into Modular OOP Architecture
+- [ ] **Day 238:** Documentation Best Practices: Docstrings & Sphinx Tools
+- [ ] **Day 239:** Logging System Architecture (`logging` module, Log Levels, Rotation)
+- [ ] **Day 240:** Milestone Project: Enterprise-Grade Automated Task Management Framework
+
+---
+
+## 🟤 MODULE 7: REST APIs, FastAPI & Microservices (Days 241 – 290)
+- [ ] **Day 241:** What is an API? REST Architecture Concepts
+- [ ] **Day 242:** Consuming External REST APIs using `requests`
+- [ ] **Day 243:** API Authentication: API Keys, OAuth2, and Bearer Tokens
+- [ ] **Day 244:** Handling Rate Limits, Retries, and Backoff Strategies
+- [ ] **Day 245:** Introduction to FastAPI Framework
+- [ ] **Day 246:** Setting up Uvicorn Server & First FastAPI Endpoint
+- [ ] **Day 247:** Path Parameters & Query Parameters in FastAPI
+- [ ] **Day 248:** Request Bodies & Data Validation with Pydantic Models
+- [ ] **Day 249:** HTTP Response Codes & Custom Error Responses
+- [ ] **Day 250:** Automatic API Documentation with Swagger UI & ReDoc
+- [ ] **Day 251:** Mini Project: Microservice for Processing & Converting Excel Files
+- [ ] **Day 252:** Connecting FastAPI to SQLite / PostgreSQL Databases
+- [ ] **Day 253:** ORM Setup with SQLAlchemy / SQLModel
+- [ ] **Day 254:** CRUD Operations (Create, Read, Update, Delete) via API
+- [ ] **Day 255:** Database Migrations using Alembic
+- [ ] **Day 256:** Dependency Injection System in FastAPI
+- [ ] **Day 257:** User Authentication: Hashing Passwords with `passlib` / `bcrypt`
+- [ ] **Day 258:** JWT (JSON Web Token) Generation and Verification
+- [ ] **Day 259:** Securing API Endpoints with Token Authentication
+- [ ] **Day 260:** Mini Project: Secure Automated Data Processing API Gateway
+- [ ] **Day 261:** Asynchronous API Endpoints (`async` / `await`)
+- [ ] **Day 262:** Background Tasks Execution in FastAPI
+- [ ] **Day 263:** File Upload & Download Endpoints (Handling Excel / PDF uploads)
+- [ ] **Day 264:** Middleware Creation: CORS, Logging, and Timing
+- [ ] **Day 265:** WebSockets for Real-time Data Streaming
+- [ ] **Day 266:** Mini Project: Real-Time Automation Monitoring Dashboard Backend
+- [ ] **Day 267:** Introduction to Distributed Task Queues (Celery)
+- [ ] **Day 268:** Setting up Message Brokers (Redis / RabbitMQ)
+- [ ] **Day 269:** Offloading Heavy Tasks (Scraping, PDF Generation) to Celery
+- [ ] **Day 270:** Scheduled Periodic Tasks with Celery Beat
+- [ ] **Day 271:** Building Webhooks: Receiving Real-time Data Notifications
+- [ ] **Day 272:** Integrating Stripe / Payment Gateways via Webhooks
+- [ ] **Day 273:** Integrating OpenAI API: Text Summarization & Data Extraction
+- [ ] **Day 274:** Automating Content Processing using LLMs & Python
+- [ ] **Day 275:** Mini Project: AI-Powered Automated Document Summarizer
+- [ ] **Day 276:** Containerization Basics: Introduction to Docker
+- [ ] **Day 277:** Writing a Dockerfile for Python Applications
+- [ ] **Day 278:** Building and Running Docker Containers Locally
+- [ ] **Day 279:** Managing Multi-Container Setup with Docker Compose (FastAPI + Postgres + Redis)
+- [ ] **Day 280:** Mini Project: Fully Containerized API & Scraping Microservice
+- [ ] **Day 281:** Environment Variables & Security Management (`python-dotenv`)
+- [ ] **Day 282:** API Rate Limiting & Security Hardening
+- [ ] **Day 283:** Performance Profiling of Python Web Services
+- [ ] **Day 284:** API Integration Testing using `pytest` & `TestClient`
+- [ ] **Day 285:** Module 7 Review & Optimization
+- [ ] **Day 286:** Cloud Deployment Concepts (AWS / DigitalOcean / Render)
+- [ ] **Day 287:** Deploying Containerized Python Services
+- [ ] **Day 288:** Monitoring API Services with Health Checks & Metrics
+- [ ] **Day 289:** Automated CI/CD Pipelines with GitHub Actions
+- [ ] **Day 290:** Milestone Project: Enterprise AI & Data Processing API Microservice
+
+---
+
+## ⚫ MODULE 8: AI, ML & Advanced Automation Engineering (Days 291 – 335)
+- [ ] **Day 291:** Introduction to Artificial Intelligence & Machine Learning Pipeline
+- [ ] **Day 292:** Supervised vs Unsupervised Learning Concepts
+- [ ] **Day 293:** Introduction to Scikit-Learn: Datasets and Estimators
+- [ ] **Day 294:** Linear Regression: Predicting Numeric Values
+- [ ] **Day 295:** Logistic Regression: Binary Classification Problems
+- [ ] **Day 296:** Decision Trees and Random Forests Classifiers
+- [ ] **Day 297:** Model Evaluation Metrics: Accuracy, Precision, Recall, F1-Score
+- [ ] **Day 298:** Cross-Validation & Hyperparameter Tuning (GridSearchCV)
+- [ ] **Day 299:** Mini Project: Automated Customer Churn Prediction Tool
+- [ ] **Day 300:** Saving and Loading Trained Models with `joblib` / `pickle`
+- [ ] **Day 301:** Integrating Trained ML Models into FastAPI Services
+- [ ] **Day 302:** Unsupervised Learning: K-Means Clustering for Data Segmentation
+- [ ] **Day 303:** Text Processing for AI: Natural Language Processing (NLP) Basics
+- [ ] **Day 304:** Sentiment Analysis with TextBlob / VADER
+- [ ] **Day 305:** Advanced NLP with Spacy: Named Entity Recognition (NER)
+- [ ] **Day 306:** Mini Project: Automated Customer Feedback Sentiment Classifier
+- [ ] **Day 307:** Optical Character Recognition (OCR): Extracting Text from Images (`pytesseract`)
+- [ ] **Day 308:** Automated Image Processing with Pillow (PIL)
+- [ ] **Day 309:** Mini Project: Automated Scanned Receipt Reader to Excel
+- [ ] **Day 310:** Advanced AI: Working with LangChain / LlamaIndex for RAG Systems
+- [ ] **Day 311:** Building Custom Knowledge Base Bots over PDF / Excel Documents
+- [ ] **Day 312:** Computer Vision Basics with OpenCV: Image Manipulation
+- [ ] **Day 313:** Automated Face & Object Detection Scripts
+- [ ] **Day 314:** Mini Project: Smart Document Inspection Automation
+- [ ] **Day 315:** Network Automation Basics: Paramiko for SSH Connections
+- [ ] **Day 316:** Remote Server Management & Command Execution via Python
+- [ ] **Day 317:** Automated Server Backups & Log Rotations
+- [ ] **Day 318:** GUI Automation: Controlling Keyboard & Mouse with PyAutoGUI
+- [ ] **Day 319:** Image-Based Desktop Automation & Click Scripts
+- [ ] **Day 320:** Mini Project: Automated Legacy Desktop Software Data Entry Bot
+- [ ] **Day 321:** Memory Profiling & Code Optimization (`cProfile`, `memory_profiler`)
+- [ ] **Day 322:** Multi-Processing (`multiprocessing`) for CPU-Bound Tasks
+- [ ] **Day 323:** Parallel Data Processing Pipelines
+- [ ] **Day 324:** Building Executable Desktop Tools (`.exe`) using PyInstaller
+- [ ] **Day 325:** Packaging Python Projects for Distribution (`pip` packages)
+- [ ] **Day 326:** Creating Custom CLI Tools with Typer / Click
+- [ ] **Day 327:** Module 8 Review & System Integration
+- [ ] **Day 328:** Edge Cases in Automation & Failover Architecture
+- [ ] **Day 329:** System Health Monitoring & Automated Alert Systems
+- [ ] **Day 330:** Milestone Project: Autonomous AI-Powered Data Extraction & Analytics Agent
+
+---
+
+## ⚪ MODULE 9: Capstone Projects, Portfolio & Production Systems (Days 336 – 365)
+- [ ] **Day 336:** Capstone Project 1 Architecture & Requirement Specs
+- [ ] **Day 337:** Capstone Project 1: Database & Data Pipeline Design
+- [ ] **Day 338:** Capstone Project 1: Core Automation Logic & Scraping Engine
+- [ ] **Day 339:** Capstone Project 1: API Layer & Excel Report Generation
+- [ ] **Day 340:** Capstone Project 1: Testing, Containerization & Deployment
+- [ ] **Day 341:** Capstone Project 2 Architecture: Multi-Agent Automation System
+- [ ] **Day 342:** Capstone Project 2: AI Summarizer & Data Categorizer Engine
+- [ ] **Day 343:** Capstone Project 2: Email & Notification Gateway
+- [ ] **Day 344:** Capstone Project 2: Scheduler & Monitoring System
+- [ ] **Day 345:** Capstone Project 2: Final Testing & Production Release
+- [ ] **Day 346:** Portfolio Construction: Structuring GitHub Repositories Professionally
+- [ ] **Day 347:** Writing High-Quality `README.md` Files & Project Documentation
+- [ ] **Day 348:** Setting up Open-Source License, `.gitignore`, and Contribution Guidelines
+- [ ] **Day 349:** Profiling Portfolio Projects for Technical Recruiters & Clients
+- [ ] **Day 350:** Technical Resume Preparation for Python Automation Engineer Roles
+- [ ] **Day 351:** Preparing Freelance Portfolios (Upwork, Fiverr Strategy for Automation)
+- [ ] **Day 352:** System Design Interview Prep: Designing Scalable Scrapers & Pipelines
+- [ ] **Day 353:** Core Data Structures & Algorithms (DSA) Review in Python - Part 1
+- [ ] **Day 354:** Core Data Structures & Algorithms (DSA) Review in Python - Part 2
+- [ ] **Day 355:** Common Technical Interview Coding Challenges
+- [ ] **Day 356:** Code Review Exercises & Refactoring Legacy Codebase
+- [ ] **Day 357:** Freelance Client Proposal Writing for Python Tasks
+- [ ] **Day 358:** How to Scope, Price, and Deliver Python Automation Projects
+- [ ] **Day 359:** Creating Screencast Demos & Case Studies of Built Tools
+- [ ] **Day 360:** Open-Source Contribution Workflow
+- [ ] **Day 361:** Continuous Learning Strategy & Keeping Up with Python Ecosystem
+- [ ] **Day 362:** Complete Book Audit & Final Verification of `Python_365_Days_Book.xlsx`
+- [ ] **Day 363:** Year-End Codebase Clean-Up & Optimization
+- [ ] **Day 364:** Final Live Portfolio Review & Deployment Checks
+- [ ] **Day 365:** Graduation: Full Master Python Developer Status & Career Execution Plan 🎉
